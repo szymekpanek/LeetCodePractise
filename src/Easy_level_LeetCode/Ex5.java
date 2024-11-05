@@ -1,4 +1,4 @@
-package Easy_level;
+package Easy_level_LeetCode;
 public class Ex5 {
     public int searchInsert(int[] nums, int target) {
         for (int i = 0; i < nums.length ; i++) {

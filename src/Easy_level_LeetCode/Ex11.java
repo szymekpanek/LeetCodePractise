@@ -1,4 +1,4 @@
-package Easy_level;
+package Easy_level_LeetCode;
 
 public class Ex11 {
     public void merge(int[] nums1, int m, int[] nums2, int n) {

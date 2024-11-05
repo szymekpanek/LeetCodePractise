@@ -1,4 +1,4 @@
-package Easy_level;
+package Easy_level_LeetCode;
 /*
 Given a string s consisting of words and spaces, return the length of the last word in the string.
 

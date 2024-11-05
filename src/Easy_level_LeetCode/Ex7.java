@@ -1,4 +1,4 @@
-package Easy_level;
+package Easy_level_LeetCode;
 
 import java.util.Arrays;
 

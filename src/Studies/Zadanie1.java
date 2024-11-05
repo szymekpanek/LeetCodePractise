@@ -1,7 +1,4 @@
-package Pele;
-
-import java.util.HashSet;
-import java.util.Scanner;
+package Studies;
 
 import java.util.HashSet;
 import java.util.Scanner;

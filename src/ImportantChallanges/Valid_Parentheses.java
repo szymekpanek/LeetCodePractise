@@ -1,4 +1,4 @@
-package HSBC;
+package ImportantChallanges;
 
 //Sprawdzanie poprawności nawiasów
 public class Valid_Parentheses {

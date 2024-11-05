@@ -1,6 +1,5 @@
-package Pele;
+package Studies;
 
-import java.lang.reflect.Array;
 import java.util.*;
 
 public class Zadanie2 {

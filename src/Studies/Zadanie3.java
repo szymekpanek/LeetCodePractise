@@ -1,4 +1,4 @@
-package Pele;
+package Studies;
 
 import java.util.HashMap;
 import java.util.Map;

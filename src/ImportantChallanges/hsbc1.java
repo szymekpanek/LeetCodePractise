@@ -1,4 +1,4 @@
-package HSBC;
+package ImportantChallanges;
 
 /*
 You are given an integer array height of length n. There are n vertical lines drawn such that the two endpoints of the ith line are (i, 0) and (i, height[i]).
@@ -10,9 +10,6 @@ Return the maximum amount of water a container can store.
 Notice that you may not slant the container.
 */
 
-
-import java.lang.reflect.Array;
-import java.util.ArrayList;
 
 public class hsbc1 {
 

@@ -1,4 +1,4 @@
-package Easy_level;
+package Easy_level_LeetCode;
 
 public class Ex12 {
     public int removeDuplicates(int[] nums) {
