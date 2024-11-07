@@ -19,6 +19,6 @@ public class Increasing_Triplet_Subsequence {
     public static void main(String[] args) {
         int[] nums = {20, 100, 10, 12, 5, 13};
         Increasing_Triplet_Subsequence increasingTripletSubsequence = new Increasing_Triplet_Subsequence();
-        System.out.println(increasingTripletSubsequence.increasingTriplet(nums)); // powinno zwrócić true
+        System.out.println(increasingTripletSubsequence.increasingTriplet(nums));
     }
 }
