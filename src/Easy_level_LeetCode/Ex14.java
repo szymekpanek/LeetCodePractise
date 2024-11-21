@@ -22,7 +22,7 @@ public class Ex14 {
 
     public static void main(String[] args) {
         Ex14 ex14 = new Ex14();
-        String s = "dupsko  ";
+        String s = "kasztan  ";
         System.out.println("Word s has " + ex14.lengthOfLastWord(s));
     }
 }
