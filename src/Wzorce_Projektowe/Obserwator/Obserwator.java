@@ -63,7 +63,7 @@ class ServerImpl implements Server {
 }
 
 
-public class ObserverPatternDemo {
+public class Obserwator{
 
     // funkcja sprawdza czy klient jest podlaczony do serwera
     private static boolean serverContainsClient(Server server, ClientImpl client) {
